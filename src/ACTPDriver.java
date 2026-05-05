@@ -1,3 +1,19 @@
+/** A program for testing the efficiency of algorithms
+ * @author Cian Tuey
+ * @version 1.0
+ * @since 1.0
+*/
+/*  
+* OS: Devuan GNU/Linux 6
+* IDE: eclipse 4.39.0
+* Copyright : This is my own original work 
+* based on specifications issued by our instructor
+* Academic Honesty: I attest that this is my original work.
+* I have not used unauthorized source code, either modified or
+* unmodified, nor used generative AI as a final draft. 
+* I have not given other fellow student(s) access to my program.
+*/
+
 import java.io.IOException;
 import java.util.*;
 
